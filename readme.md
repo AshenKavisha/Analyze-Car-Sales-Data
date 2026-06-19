@@ -218,4 +218,3 @@ Interested in:
 
 GitHub: https://github.com/AshenKavisha
 
-![alt text](image.png)
