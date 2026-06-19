@@ -216,5 +216,18 @@ Interested in:
 - Web Development
 - Machine Learning
 
+
+## Dataset Overview
+
+![Dataset Information](images/dataset_info.png)
+
+## Average Price by Brand
+
+![Average Price](images/mean_price.png)
+
+## Average Mileage by Brand
+
+![Average Mileage](images/mean_mileage.png)
+
 GitHub: https://github.com/AshenKavisha
 
